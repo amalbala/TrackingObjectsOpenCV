@@ -1,5 +1,5 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![Generic badge](https://img.shields.io/badge/Made %20 with-OpenCV-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Made%20with-OpenCV-red.svg)](https://shields.io/)
 
 # Tracking Objects with OpenCV
 
